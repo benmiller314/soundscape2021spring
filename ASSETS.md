@@ -1,6 +1,6 @@
 Repurposed Asset 
 ---------------------------
-Door Open Close by amholma sourced from Freesound under the Creative Commons.0 License
+[Door Open Close](https://freesound.org/people/amholma/sounds/344360/) by [amholma](https://freesound.org/people/amholma/) sourced from [Freesound](https://freesound.org/) under the [Creative Commons.0 License](https://creativecommons.org/publicdomain/zero/1.0/)
 Small truck passes by by AdrianoAnjos from Freesound under the Creative Commons.0 License
 Mechanical Keyboard Typing by GeorgeHopkins from Freesound under the Creative Commons Attribution License
 Spanish Class – 8/30/12 by theyoungphilosopher from Freesound under the Creative Commons Attribution Non-commercial License
