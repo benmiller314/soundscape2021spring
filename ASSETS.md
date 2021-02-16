@@ -1,6 +1,6 @@
 Repurposed Asset | Solution= Sourced from Freesound
 ---------------------------
-*[Door Open Close](https://freesound.org/people/amholma/sounds/344360/) by [amholma](https://freesound.org/people/amholma/) sourced from [Freesound](https://freesound.org/) under the [Creative Commons.0 License](https://creativecommons.org/publicdomain/zero/1.0/)
+* [Door Open Close](https://freesound.org/people/amholma/sounds/344360/) by [amholma](https://freesound.org/people/amholma/) sourced from [Freesound](https://freesound.org/) under the [Creative Commons.0 License](https://creativecommons.org/publicdomain/zero/1.0/)
 *[Small truck passes by](https://freesound.org/people/AdrianoAnjos/sounds/442528/) by [AdrianoAnjos](https://freesound.org/people/AdrianoAnjos/) from [Freesound](https://freesound.org/) under the [Creative Commons.0 License](https://creativecommons.org/publicdomain/zero/1.0/)
 *[Mechanical Keyboard Typing](https://freesound.org/people/GeorgeHopkins/sounds/537244/) by [GeorgeHopkins](https://freesound.org/people/GeorgeHopkins/) from [Freesound](https://freesound.org/) under the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/3.0/)
 *[Spanish Class – 8/30/12](https://freesound.org/people/theyoungphilosopher/sounds/164600/) by [theyoungphilosopher](https://freesound.org/people/theyoungphilosopher/) from [Freesound](https://freesound.org/) under the [Creative Commons Attribution Non-commercial License](https://creativecommons.org/licenses/by-nc/3.0/)
